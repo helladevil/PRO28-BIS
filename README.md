@@ -1,1 +1,3 @@
-# PRO28-BIS
+# Plantilla C28
+
+Plantilla C28
